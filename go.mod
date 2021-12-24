@@ -1,4 +1,4 @@
-module learn.go
+module github.com/tangdongsheng94/learn.go
 
 go 1.16
 
